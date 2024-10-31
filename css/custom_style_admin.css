@@ -1,0 +1,19 @@
+#wpsm_calendar_view{
+	background: #f9f9f9;
+    padding: 20px;
+	border-radius: 7px;
+}
+#wpsm_users_view{
+	background: #f9f9f9;
+    padding: 20px;
+	border-radius: 7px;
+}
+#wpsm_users_view table{width: 100%;}
+    
+#wpsm_users_view table tbody tr:nth-of-type(2n) {background-color: #f0f0f0;}
+#wpsm_users_view table thead th {background-color:#555d66;font-weight:bold;color:#fff; border-radius: 5px;}
+#wpsm_users_view table tbody tr td:nth-of-type(1) {font-weight: bold;    border-right: 1px solid #d3d3d3;
+    text-align: center;}
+
+#wpsm_users_view table tbody tr td{border-left: 1px solid #d3d3d3;padding: 5px;}
+
